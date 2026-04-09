@@ -1,7 +1,7 @@
-# osu skin collection
+# osu! skin collection
 
 ## Classic mode
 
-[enonnnnnnn (en+11)](osu!/enonnnnnnn.osk)
+### [enonnnnnnn (en+11)](osu!/enonnnnnnn.osk)
 
-![enonnnnnnn](screenshots/enonnnnnnn.png)
+[![enonnnnnnn](screenshots/enonnnnnnn.png)](osu!/enonnnnnnn.osk)
