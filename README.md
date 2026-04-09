@@ -16,3 +16,8 @@
 ### [Ishiskin v0.7 bs](taiko/Ishiskin%20v0.7%20bs.osk)
 
 [![Ishiskin v0.7 bs](screenshots/Ishiskin%20v0.7%20bs.jpg)](taiko/Ishiskin%20v0.7%20bs.osk)
+
+
+## License
+
+This project is released under [The Unlicense](./LICENSE).
