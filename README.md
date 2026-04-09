@@ -1,5 +1,10 @@
 # osu! skin collection
 
+## Usage
+1. Click on the link or screenshot of the skin you like.
+2. Click the "Download raw flle" button on the right.
+3. Have fun!
+
 ## Classic mode
 
 ### [enonnnnnnn (en+11)](osu!/enonnnnnnn.osk)
