@@ -13,7 +13,7 @@
 
 ### [Cookiezi-03(Kamui)](osu!/Cookiezi-03(Kamui).osk)
 
-[![Cookiezi-03(Kamui)](screenshots/Cookiezi-03(Kamui).png](osu!/Cookiezi-03(Kamui).osk)
+[![Cookiezi-03(Kamui)](screenshots/Cookiezi-03(Kamui).png)](osu!/Cookiezi-03(Kamui).osk)
 
 ## Taiko mode
 
